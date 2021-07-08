@@ -28,8 +28,8 @@ Project created to study [Omie](http://omie.com/) api 🎒.
 ### Impostos:
 <img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/impostos.gif" width="623" height="440" title="Screen Shoot">
 <br/>
-
 <br/>
+
 ## Packages used:
 
 - http: ^0.13.1
