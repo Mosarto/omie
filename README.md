@@ -7,7 +7,12 @@ Project created to study [Omie](http://omie.com/) api 🎒.
 
 - Menu:
 <br/>
-- <img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/menu.gif" width="623" height="440" title="Screen Shoot">
+<img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/menu.gif" width="623" height="440" title="Screen Shoot">
+<br/>
+- NFC-e:
+<br/>
+<img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/nfce.gif" width="623" height="440" title="Screen Shoot">
+<br/>
 
 ## Packages used:
 
