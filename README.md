@@ -6,6 +6,7 @@ Project created to study [Omie](http://omie.com/) api 🎒.
 ## Demos:
 
 - Menu:
+<br/>
   <img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/menu.gif" width="622" height="440" title="Screen Shoot">
 
 ## Packages used:
