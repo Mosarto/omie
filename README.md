@@ -5,10 +5,10 @@ Project created to study [Omie](http://omie.com/) api 🎒.
 
 ## Demos:
 
-- Menu:
-- <img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/menu.gif" width="623" height="440" title="Screen Shoot">
-- NFC-e:
-- <img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/nfce.gif" width="623" height="440" title="Screen Shoot">
+### Menu:
+<img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/menu.gif" width="623" height="440" title="Screen Shoot">
+### NFC-e:
+<img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/nfce.gif" width="623" height="440" title="Screen Shoot">
 - Clientes:
 - <img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/Cliente.gif" width="623" height="440" title="Screen Shoot">
 - Produtos: 
