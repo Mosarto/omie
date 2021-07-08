@@ -5,7 +5,8 @@ Project created to study [Omie](http://omie.com/) api 🎒.
 
 ## Demos:
 
-<img src="https://raw.githubusercontent.com/Mosarto/weatherapp/master/demo/demo.gif" width="340" height="740" title="Screen Shoot">
+- Menu:
+  <img src="https://raw.githubusercontent.com/Mosarto/omie/main/demo/menu.gif" width="622" height="440" title="Screen Shoot">
 
 ## Packages used:
 
