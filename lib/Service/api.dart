@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-var appkey = '38333295000';
-var appsecret = '4cea520a0e2a2ecdc267b75d3424a0ed';
+var appkey = '';
+var appsecret = '';
 
 Future<String> getListarClientes({int page}) async {
   Map params = {
